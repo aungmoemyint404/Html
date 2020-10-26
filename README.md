@@ -1,10 +1,9 @@
-# ADXdefacer
+# Html
 
 **What is ADXdeface tools?**<br>
 AOXdeface is a tool for defacing dozens or hundreds of sites at once,depending on the number
 of sites that have been determined by you, this is not dangerous, and this is only the file upload method<br>
 
-![logo](image.jpg)
 
 **how to install and usage:**
 
@@ -16,10 +15,10 @@ of sites that have been determined by you, this is not dangerous, and this is on
 
 * `pkg install git`
 
-* `git clone https://github.com/CharlieTheHack1/ADXdefacer`
+* `git clone https://github.com/aungmoemyint404/Html`
 
-* `cd ADXdefacer`
+* `cd Html`
 
-* `python2 adx.py`
+* `python2 Free-Website.py`
 
 # Thanks For Using Our Script !
